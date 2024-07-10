@@ -1,0 +1,478 @@
+ /* x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+    .navbar-light .navbar-brand {
+        font-size: 20px;
+    }
+    .navbar-light .navbar-brand span {
+        font-size: 20px;
+    }
+    .navbar-toggler i {
+        font-size: 20px;
+    }
+    #banner {
+        padding: 230px 0 155px 0;
+    }
+    .banner_text h3 span {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .banner_text h3 {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .banner_text h1 {
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+    .banner_text span {
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+    #about {
+        padding: 30px 0 50px 0;
+    }
+    .about_header h2 {
+        font-size: 30px;
+    }
+    .about_header p {
+        font-size: 17px;
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    .about_little_text h3 {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .about_little_img img {
+        width: 50%;
+    }
+    .about_little_txt p {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .about_little_txt h5 {
+        font-size: 18px;
+    }
+    .progressbar_heading h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .divtext p {
+        font-size: 16px;
+    }
+    #CoundUp {
+        padding: 50px 0 50px 0;
+    }
+    .CoundUp_text i {
+        padding-top: 20px;
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .CoundUp_text h4 {
+        font-size: 20px;
+    }
+    .CoundUp_text h6 {
+        font-size: 17px;
+    }
+    .gallery h2 {
+        font-size: 30px;
+    }
+    .gallery .controls .buttons {
+        height: 40px;
+        width: 60px;
+        font-size: 18px;
+        margin: 10px;
+    }
+    .gallery .image-container .image {
+        height: 200px;
+        width: 270px;
+        margin: 10px;
+    }
+    .comment_text img {
+        height: 110px;
+    }
+    .comment_text p {
+        font-size: 16px;
+    }
+    .comment_text h4 {
+        font-size: 24px;
+    }
+    #updates {
+        padding: 30px 0 30px 0;
+    }
+    .update_text h2 {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    .card-body i {
+        font-size: 17px;
+        padding: 0 5px;
+    }
+    .card-body p {
+        font-size: 18px;
+    }
+    .card-body h6 {
+        font-size: 15px;
+    }
+    .text-muted {
+        font-size: 15px;
+    }
+    .contract_logo h2 {
+        padding-top: 20px;
+        font-size: 24px;
+    }
+    .contract_logo h2 span {
+        font-size: 24px;
+    }
+    .contract_logo_icon i {
+        font-size: 16px;
+        padding: 15px 5px 0px 5px;
+    }
+    .regiForm h2 {
+        padding-top: 20px;
+        font-size: 24px;
+        padding-bottom: 15px;
+    }
+    .regiForm p {
+        font-size: 15px;
+        padding: 2px 10px;
+    }
+    .learnMore h2 {
+        padding-top: 20px;
+        font-size: 24px;
+    }
+    .contact_info h2 {
+        font-size: 24px;
+        padding-top: 20px;
+    }
+    .learnMore_link a {
+        font-size: 18px;
+    }
+    .contact_info p {
+        font-size: 18px;
+    }
+    .end p {
+        font-size: 15px;
+    }
+    .end span{
+        font-size: 15px;
+      }
+ }
+
+ /* small devices (landscape phones, less than 768px) */
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-light .navbar-brand {
+        font-size: 25px;
+    }
+    .navbar-light .navbar-brand span {
+        font-size: 25px;
+    }
+    .navbar-toggler i {
+        font-size: 25px;
+    }
+    #banner {
+        padding: 262px 0 144px 0;
+    }
+    .banner_text h3 span {
+        font-size: 28px;
+    }
+    .banner_text h3 {
+        font-size: 28px;
+    }
+    .banner_text h1 {
+        font-size: 60px;
+    }
+    .banner_text span {
+        font-size: 60px;
+    }
+    #about {
+        padding: 30px 0 50px 0;
+    }
+    .about_header h2 {
+        font-size: 35px;
+    }
+    .about_header p {
+        font-size: 20px;
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    .about_little_text h3 {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .about_little_img img {
+        width: 50%;
+    }
+    .about_little_txt p {
+        padding-top: 20px;
+        font-size: 20px;
+    }
+    .about_little_txt h5 {
+        font-size: 25px;
+    }
+    .progressbar_heading h3 {
+        padding-top: 30px;
+        font-size: 24px;
+        padding-bottom: 10px;
+    }
+    .divtext p {
+        font-size: 18px;
+    }
+    #CoundUp {
+        padding: 50px 0 50px 0;
+    }
+    .CoundUp_text i {
+        padding-top: 20px;
+        font-size: 45px;
+        padding-bottom: 20px;
+    }
+    .CoundUp_text h4 {
+        font-size: 24px;
+    }
+    .CoundUp_text h6 {
+        font-size: 20px;
+    }
+    .gallery h2 {
+        font-size: 40px;
+    }
+    .gallery .controls .buttons {
+        height: 40px;
+        width: 75px;
+        font-size: 20px;
+        margin: 10px;
+    }
+    .gallery .image-container .image {
+        height: 180px;
+        width: 230px;
+        margin: 10px;
+    }
+    .comment_text img {
+        height: 140px;
+    }
+    .comment_text p {
+        font-size: 19px;
+    }
+    .comment_text h4 {
+        font-size: 27px;
+    }
+    #updates {
+        padding: 30px 0 30px 0;
+    }
+    .update_text h2 {
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+    .card-body i {
+        font-size: 20px;
+        padding: 0 5px;
+    }
+    .card-body p {
+        font-size: 18px;
+    }
+    .card-body h6 {
+        font-size: 15px;
+    }
+    .text-muted {
+        font-size: 15px;
+    }
+    .contract_logo h2 {
+        padding-top: 20px;
+        font-size: 26px;
+    }
+    .contract_logo h2 span {
+        font-size: 26px;
+    }
+    .contract_logo_icon i {
+        font-size: 18px;
+        padding: 15px 5px 0px 5px;
+    }
+    .regiForm h2 {
+        padding-top: 20px;
+        font-size: 26px;
+        padding-bottom: 15px;
+    }
+    .regiForm p {
+        font-size: 17px;
+        padding: 2px 10px;
+    }
+    .learnMore h2 {
+        padding-top: 20px;
+        font-size: 26px;
+    }
+    .contact_info h2 {
+        font-size: 26px;
+        padding-top: 20px;
+    }
+    .learnMore_link a {
+        font-size: 19px;
+    }
+    .contact_info p {
+        font-size: 19px;
+    }
+    .end p {
+        font-size: 16px;
+    }
+    .end span{
+        font-size: 16px;
+      }
+  }
+
+ /*  medium devices (tablets, less than 992px) */
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+    .navbar-light .navbar-brand {
+        font-size: 30px;
+    }
+    .navbar-light .navbar-brand span {
+        font-size: 30px;
+    }
+    .navbar-toggler i {
+        font-size: 30px;
+    }
+    #banner {
+        padding: 262px 0 144px 0;
+    }
+    .banner_text h3 span {
+        font-size: 30px;
+    }
+    .banner_text h3 {
+        font-size: 30px;
+    }
+    .banner_text h1 {
+        font-size: 65px;
+    }
+    .banner_text span {
+        font-size: 65px;
+    }
+    #about {
+        padding: 30px 0 50px 0;
+    }
+    .about_header h2 {
+        font-size: 40px;
+    }
+    .about_header p {
+        font-size: 25px;
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    .about_little_text h3 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .about_little_img img {
+        width: 50%;
+    }
+    .about_little_txt p {
+        padding-top: 20px;
+        font-size: 24px;
+    }
+    .about_little_txt h5 {
+        font-size: 26px;
+    }
+    .progressbar_heading h3 {
+        padding-top: 30px;
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .divtext p {
+        font-size: 21px;
+    }
+    #CoundUp {
+        padding: 50px 0 50px 0;
+    }
+    .CoundUp_text i {
+        padding-top: 20px;
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+    .CoundUp_text h4 {
+        font-size: 27px;
+    }
+    .CoundUp_text h6 {
+        font-size: 23px;
+    }
+    .gallery h2 {
+        font-size: 40px;
+    }
+    .gallery .controls .buttons {
+        height: 40px;
+        width: 80px;
+        font-size: 23px;
+        margin: 10px;
+    }
+    .gallery .image-container .image {
+        height: 200px;
+        width: 300px;
+        margin: 10px;
+    }
+    .comment_text img {
+        height: 200px;
+    }
+    .comment_text p {
+        font-size: 24px;
+    }
+    .comment_text h4 {
+        font-size: 30px;
+    }
+    #updates {
+        padding: 30px 0 30px 0;
+    }
+    .update_text h2 {
+        font-size: 40px;
+        padding-bottom: 30px;
+    }
+    .card-body i {
+        font-size: 22px;
+        padding: 0 5px;
+    }
+    .card-body p {
+        font-size: 20px;
+    }
+    .card-body h6 {
+        font-size: 17px;
+    }
+    .text-muted {
+        font-size: 17px;
+    }
+    .contract_logo h2 {
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    .contract_logo h2 span {
+        font-size: 30px;
+    }
+    .contract_logo_icon i {
+        font-size: 19px;
+        padding: 15px 5px 0px 5px;
+    }
+    .regiForm h2 {
+        padding-top: 20px;
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .regiForm p {
+        font-size: 19px;
+        padding: 2px 10px;
+    }
+    .learnMore h2 {
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    .contact_info h2 {
+        font-size: 26px;
+        padding-top: 20px;
+    }
+    .learnMore_link a {
+        font-size: 20px;
+    }
+    .contact_info p {
+        font-size: 20px;
+    }
+    .end p {
+        font-size: 17px;
+    }
+    .end span{
+        font-size: 17px;
+      }
+  }
